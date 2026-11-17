@@ -1,0 +1,3 @@
+# Fliperama
+
+Atualizações do aplicativo.
